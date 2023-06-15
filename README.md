@@ -21,8 +21,10 @@ _italic_
 2. git init
 3. git add README.md
 4. git commit -m "first commit"
-5.. git branch -M main
 6. git remote add origin git@github.com:lissso/on-fork.git
 7. git push -u origin main
 [vi commands](https://www.thegeekdiary.com/basic-vi-commands-cheat-sheet/)
-[markdown](https://cmsstash.de/website-praxis/markdown-fur-webseiten#h-was-ist-markdown)
+[markdown](http://cmsstash.de/website-praxis/markdown-fur-webseiten#h-was-ist-markdown)
+
+
+
